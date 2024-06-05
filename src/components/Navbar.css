@@ -1,0 +1,22 @@
+@media (min-width: 992px) {
+    .log-out-btn {
+        width: 135px !important;
+    }
+
+    #theme-changer {
+        right: 260px;
+    }
+}
+
+
+@media (max-width: 991px) {
+    #theme-changer {
+        top: 28px;
+        right: 100px;
+        transform: translateY(-50%);
+    }
+
+    .nav-link:hover {
+        background-color: rgb(231, 228, 228);
+    }
+}

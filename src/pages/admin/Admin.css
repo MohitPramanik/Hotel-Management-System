@@ -1,0 +1,14 @@
+#admin-page {
+    display: grid;
+    grid-template-columns: 3fr 9fr;
+}
+
+.tab-active {
+    background-color: rgb(204, 0, 255);
+    color: black;
+    font-weight: 500;
+}
+
+.hover-change:hover {
+    background-color: rgb(168, 76, 255);
+}

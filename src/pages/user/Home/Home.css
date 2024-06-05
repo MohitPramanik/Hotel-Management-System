@@ -1,0 +1,19 @@
+.facility-box:nth-child(odd) {
+    flex-direction: row-reverse;
+}
+
+.background-section {
+    position: relative;
+    background-image: url('https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyix1OYhVxdA/v2/-1x-1.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bg-story-dark {
+    background: rgba(0, 0, 0, 0.632) !important;
+    padding: 20px;
+}
