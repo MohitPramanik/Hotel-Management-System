@@ -47,6 +47,3 @@ Follow these steps to get the project running locally:
 -   `src/Data`: Static data files.
 -   `src/assets`: Images and other static assets.
 
-## 👤 Author
-
-[INSERT PORTFOLIO LINK]
